@@ -1,0 +1,12 @@
+#searchDiv2 {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--formbackground);
+    width: 15%;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    margin-top: 30%;
+    border-radius: 1px;
+}

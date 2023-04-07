@@ -12,7 +12,7 @@ body {
     background-color: var(--mainbackground);
 }
 
-div {
+#searchDiv {
     display: flex;
     flex-direction: column;
     background-color: var(--formbackground);
